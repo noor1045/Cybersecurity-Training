@@ -83,5 +83,3 @@ Hakrawler was successfully installed and used to crawl the provided website. Thi
 
 ## Disclaimer
 This practical was completed only for educational purposes and authorized security testing.
-
-This practical was completed only for educational purposes and authorized security testing.
